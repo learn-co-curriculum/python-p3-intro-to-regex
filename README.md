@@ -78,5 +78,5 @@ depending on how skillfully they are wielded
 
 - [Python 3 Documentation](https://docs.python.org/3/)
 - [re - Regular expression operations - Python](https://docs.python.org/3/library/re.html)
-- [regular expressions 101](https://regex101.com/)
+- [regex101](https://regex101.com/)
 - [Python Regular Expressions - Google for Education](https://developers.google.com/edu/python/regular-expressions)
