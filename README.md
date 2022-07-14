@@ -40,7 +40,7 @@ patterns for matching, searching, and substitution. Here's a sample regular
 expression for email validation:
 
 ```py
-"/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}/i"
+r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
 ```
 
 If this doesn't make any sense, don't worry. We'll be covering how to write and
